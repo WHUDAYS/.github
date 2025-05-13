@@ -1,5 +1,7 @@
 # 武汉大学动漫协会
 
+社团官网：https://whudays.github.io/
+
 ## 组织内容
 
 - `WHUDAYS.github.io`: 武汉大学动漫协会社团网站（公共仓库）

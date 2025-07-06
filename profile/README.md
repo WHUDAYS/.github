@@ -21,3 +21,18 @@
 - `-QuQ-` (2025-现在)
   - GitHub: https://github.com/shenxianovo
   - QQ: 51729575
+
+## GitHub团队及成员
+
+- [2023HQ](https://github.com/orgs/WHUDAYS/teams/2023hq)
+  - [涅普智可](https://github.com/Nepchico)
+- [2024HQ](https://github.com/orgs/WHUDAYS/teams/2024hq)
+  - [-QuQ-](https://github.com/shenxianovo)
+  - [风又千夜](https://github.com/Kazamata-Chiya)
+  - [wweiyi](https://github.com/wweiyi2004)
+- [2025HQ](https://github.com/orgs/WHUDAYS/teams/2025hq)
+  - [-QuQ-](https://github.com/shenxianovo)
+  - [wweiyi](https://github.com/wweiyi2004)
+  - [四角五十分](https://github.com/sternklare)
+  - [霂霜](https://github.com/Mushayuki)
+  - [awa](https://github.com/xiaoben520)

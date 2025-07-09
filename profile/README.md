@@ -37,3 +37,4 @@
   - [四角五十分](https://github.com/sternklare)
   - [霂霜](https://github.com/Mushayuki)
   - [awa](https://github.com/xiaoben520)
+  - [花桑](https://github.com/hana2262)
